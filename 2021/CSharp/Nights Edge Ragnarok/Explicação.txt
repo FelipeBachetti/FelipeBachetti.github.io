@@ -1,5 +1,0 @@
-"Nights Edge: Ragnarok" foi um jogo desenvolvido entre junho e julho de 2021 para o projeto médio da Dev-U. Nessa pasta estão os principais códigos pelos quais eu fiquei responsável.
-"Nights Edge: Ragnarok" was a game developed between june and july of 2021 for the medium project of Dev-U. The main codes by which I've been responsible are located in this paste.
-
-Link:
-https://vinrzr.itch.io/nights-edge-ragnarok
