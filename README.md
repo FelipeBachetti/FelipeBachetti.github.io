@@ -1,2 +1,2 @@
 # FelipeBachetti.github.io
-Personal code portfolio.
+Personal game code portfolio.
